@@ -1,0 +1,323 @@
+.frame4-container {
+  min-height: 100vh;
+}
+.frame4-frame4 {
+  width: 100%;
+  height: 1005px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame4-frame41 {
+  top: 0px;
+  left: 1px;
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(155, 155, 155, 1);
+}
+.frame4-group7 {
+  top: 125px;
+  left: 14px;
+  width: 1175px;
+  height: 527px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame4-rectangle4 {
+  top: 0px;
+  left: 0px;
+  width: 545px;
+  height: 242px;
+  position: absolute;
+}
+.frame4-rectangle5 {
+  top: 0px;
+  left: 630px;
+  width: 545px;
+  height: 242px;
+  position: absolute;
+}
+.frame4-rectangle6 {
+  top: 285px;
+  left: 630px;
+  width: 545px;
+  height: 242px;
+  position: absolute;
+}
+.frame4-rectangle7 {
+  top: 285px;
+  left: 0px;
+  width: 545px;
+  height: 242px;
+  position: absolute;
+}
+.frame4-text {
+  top: 7px;
+  left: 25px;
+  color: rgba(255, 255, 255, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text02 {
+  top: 7px;
+  left: 653px;
+  color: rgba(255, 255, 255, 1);
+  width: 99px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text04 {
+  top: 299px;
+  left: 653px;
+  color: rgba(255, 255, 255, 1);
+  width: 99px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text06 {
+  top: 299px;
+  left: 23px;
+  color: rgba(255, 255, 255, 1);
+  width: 99px;
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text08 {
+  top: 50px;
+  left: 32px;
+  color: rgba(255, 255, 255, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text10 {
+  top: 50px;
+  left: 661px;
+  color: rgba(255, 255, 255, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text12 {
+  top: 342px;
+  left: 661px;
+  color: rgba(255, 255, 255, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text14 {
+  top: 342px;
+  left: 23px;
+  color: rgba(255, 255, 255, 1);
+  width: 296px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Arial;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-rectangle8 {
+  top: 37px;
+  left: 328px;
+  width: 190px;
+  height: 168px;
+  position: absolute;
+}
+.frame4-rectangle9 {
+  top: 37px;
+  left: 957px;
+  width: 190px;
+  height: 168px;
+  position: absolute;
+}
+.frame4-rectangle10 {
+  top: 331px;
+  left: 957px;
+  width: 190px;
+  height: 168px;
+  position: absolute;
+}
+.frame4-rectangle11 {
+  top: 331px;
+  left: 328px;
+  width: 190px;
+  height: 168px;
+  position: absolute;
+}
+.frame4-group1 {
+  top: 32px;
+  left: 95px;
+  width: 622px;
+  height: 37px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame4-text16 {
+  left: -45px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Century Gothic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text16:hover {
+  background-color: var(--dl-color-gray-white);
+}
+.frame4-text18 {
+  left: 78px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Century Gothic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text18:hover {
+  background-color: var(--dl-color-gray-white);
+}
+.frame4-text20 {
+  left: 205px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Century Gothic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text20:hover {
+  background-color: var(--dl-color-gray-white);
+}
+.frame4-text22 {
+  left: 353px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Century Gothic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text22:hover {
+  background-color: var(--dl-color-gray-white);
+}
+.frame4-text24 {
+  color: rgb(0, 0, 0);
+  right: 45px;
+  bottom: 0px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Century Gothic;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame4-text24:hover {
+  background-color: var(--dl-color-gray-white);
+}
